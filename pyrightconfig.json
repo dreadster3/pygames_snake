@@ -1,0 +1,5 @@
+{
+  "include": ["src"],
+  "venvPath": "/home/dreadster/Documents/projects/local/pygame_test/",
+  "venv": "venv"
+}
